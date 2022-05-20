@@ -3,7 +3,7 @@
 I'm alexa (also known as bqsi, AllowSleep or px on other parts of the internet).
 Please reach out professionally to learn my real name and address me as such!
 
-I'm a computing enthusiast and actively learning software engineer based out of the UK.
+I'm a computing enthusiast and actively learning software engineer based in the UK.
 I spend most of my free time making new things or trying to learn about existing things.
 
 I'm over @ Discord as `alexa#0001`, or you can email me @ `px@omg.lol` if needed!
