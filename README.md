@@ -20,6 +20,8 @@ A few more socials can be seen over @ my [landing page](https://px.omg.lol) if y
 
 - Planning to leverage Virtual Reality in many exciting ways
 
+- Working on a Discord bot to streamline staff management
+
 ## ⚙️ Skills & Tools
 
 I can work in the following programming languages to their respective degrees of difficulty:
