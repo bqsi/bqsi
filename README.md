@@ -20,7 +20,8 @@ A few more socials can be seen over @ my [landing page](https://px.omg.lol) if y
 
 - Planning to leverage Virtual Reality in many exciting ways
 
-- Working on a Discord bot to streamline staff management
+- Working on the Emotes CO Management System to streamline some management tasks
+- - A Discord bot is currently in development, which will hopefully integrate with some Roblox processes.
 
 ## ⚙️ Skills & Tools
 
