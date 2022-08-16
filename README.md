@@ -16,7 +16,7 @@ If you're trying to reach me elsewhere, please correspond via email so I can kno
 
 - Doing a gap year in my education to expand my programming capabilities and spend a lot of time with my partner
 
-- 🕺 @ [Emotes CO](https://www.roblox.com/groups/5446074/Emotes-CO) as a Community Lead, Tech Lead & Co-Owner
+- 🕺 @ [Emotes CO](https://emotescorp.co) as a Community Lead, Tech Lead & Co-Owner
 
 - ☕ @ [cofi](https://www.roblox.com/groups/5237002/cofi) as a Brand Runner & Co-Founder
 
