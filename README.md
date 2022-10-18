@@ -20,12 +20,11 @@ If you're trying to reach me elsewhere, please correspond via email so I can kno
 
 - ☕ @ [cofi](https://www.roblox.com/groups/5237002/cofi) as a Brand Runner & Co-Founder
 
-- Working on a [technical infrastructure rewrite](https://trello.com/c/QIzNOgaP/71-infrastructure-rewrite) for TTD 3, Emotes CO's flagship game
+- Working on a technical infrastructure rewrite for TTD 3, Emotes CO's flagship game
 
 - Planning to leverage Virtual Reality in many exciting ways
 
-- Working on the Emotes CO Management System to streamline some management tasks
-- - A Discord bot is currently in development, which will hopefully integrate with some Roblox processes.
+- Working on branching my skills from game development to also web development and application development - these areas excite my creativity the most!
 
 ## ⚙️ Skills & Tools
 
