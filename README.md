@@ -6,23 +6,15 @@ Please reach out professionally to learn my real name and address me as such!
 I'm a computing enthusiast and actively learning software engineer based in the UK.
 I spend most of my free time making new things or trying to learn about existing things.
 
-I'm over @ Discord as `alexa#0001`, or you can email me @ `px@omg.lol` or `allowsleep@emotescorp.co` if needed!
-
-A few more socials can be seen over @ my [landing page](https://px.omg.lol) if you wanna get in contact informally.
+I'm over on Discord as `allowsleep.`, but you can also email me at `allowsleep@emotes.co`!
 
 If you're trying to reach me elsewhere, please correspond via email so I can know that you're going to be getting in touch. I rarely read unexpected messages.
 
 ## ☄️ I'm currently...
 
-- Doing a gap year in my education to expand my programming capabilities and spend a lot of time with my partner
-
-- 🕺 @ [Emotes CO](https://emotescorp.co) as a Community Lead, Tech Lead & Co-Owner
+- 🕺 @ [Emotes CO](https://emotes.co) as Co-Owner and Lead of Operations
 
 - ☕ @ [cofi](https://www.roblox.com/groups/5237002/cofi) as a Brand Runner & Co-Founder
-
-- Working on a technical infrastructure rewrite for TTD 3, Emotes CO's flagship game
-
-- Planning to leverage Virtual Reality in many exciting ways
 
 - Working on branching my skills from game development to also web development and application development - these areas excite my creativity the most!
 
@@ -30,7 +22,7 @@ If you're trying to reach me elsewhere, please correspond via email so I can kno
 
 I can work in the following programming languages to their respective degrees of difficulty:
 
-- <img height=18px src="https://luau-lang.org/assets/images/luau-88.png"> <b>Lua</b> & <img height=18px src="https://www.lua.org/favicon.ico"> <b>Luau</b>, which I've been working with for around 3 years as part of my work on Roblox.
+- <img height=18px src="https://luau-lang.org/assets/images/luau-88.png"> <b>Lua</b> & <img height=18px src="https://www.lua.org/favicon.ico"> <b>Luau</b>, which I've been working with since 2019 as part of my work on Roblox.
 
    I'm fairly proficient and fluent in these languages. They're easily my favourite to work in.
    
@@ -40,17 +32,12 @@ I can work in the following programming languages to their respective degrees of
    
 - <img height=18px src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> <b>JavaScript</b>, which I've been working with for around a year now as part of some personal projects.
 
-   I'm still learning this language whenever I can, but am not independent with it yet. I'm fascinated by its syntax and mannerisms.
+   I'm still learning this language whenever I can, but am not independent with it yet.
    
 - <img height=18px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1920px-C_Sharp_wordmark.svg.png"> <b>C#</b>, which I've been working with for around a month collectively as part of some personal projects and also in an effort to teach myself the language.
 
-   I'm still learning this language whenever I can, but am not independent with it yet. I'm a huge fan of the potential of working in this language.
+   I'm still learning this language whenever I can, but am not independent with it yet. I love the idea of adopting it for other areas of development.
 
-I mainly use <b>Roblox Studio</b> in my work to edit and shape code.
-I'm well-versed in using <b>Visual Studio Code</b> and <b>Notepad++</b> to do the same.
+I use <b>Visual Studio Code</b> and <b>Roblox Studio</b> to edit and shape my code.
 
 I'm very keen on expanding my knowledge of languages later down the line and hope to develop my skills as I do so.
-
-## 📈 Profile Stats
-
-[![bqsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bqsi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bqsi&theme=darcula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
