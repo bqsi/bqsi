@@ -22,7 +22,7 @@ If you're trying to reach me elsewhere, please correspond via email so I can kno
 
 I can work in the following programming languages to their respective degrees of difficulty:
 
-- <img height=18px src="https://luau-lang.org/assets/images/luau-88.png"> <b>Lua</b> & <img height=18px src="https://www.lua.org/favicon.ico"> <b>Luau</b>, which I've been working with since 2019 as part of my work on Roblox.
+-  <img height=18px src="https://www.lua.org/favicon.ico"> <b>Lua</b> & <img height=18px src="https://luau-lang.org/assets/images/luau-88.png"> <b>Luau</b>, which I've been working with since 2019 as part of my work on Roblox.
 
    I'm fairly proficient and fluent in these languages. They're easily my favourite to work in.
    
