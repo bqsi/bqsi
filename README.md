@@ -26,15 +26,15 @@ I can work in the following programming languages to their respective degrees of
 
    I'm fairly proficient and fluent in these languages. They're easily my favourite to work in.
    
-- <img height=18px src="https://www.python.org/favicon.ico"> <b>Python</b>, which I've been working on-and-off with for around 2 years now as part of my educational work and also for some personal projects of mine.
+- <img height=18px src="https://www.python.org/favicon.ico"> <b>Python</b>, which I occasionally used for personal projects over the course of 3 years.
 
    I'm fairly independent in this language. It's pretty fun to make stuff in.
    
-- <img height=18px src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> <b>JavaScript</b>, which I've been working with for around a year now as part of some personal projects.
+- <img height=18px src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> <b>JavaScript</b>, which I occasionally used for personal projects over the course of 1 year.
 
    I'm still learning this language whenever I can, but am not independent with it yet.
    
-- <img height=18px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1920px-C_Sharp_wordmark.svg.png"> <b>C#</b>, which I've been working with for around a month collectively as part of some personal projects and also in an effort to teach myself the language.
+- <img height=18px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1920px-C_Sharp_wordmark.svg.png"> <b>C#</b>, which I occasionally used for personal projects over the course of 3 months.
 
    I'm still learning this language whenever I can, but am not independent with it yet. I love the idea of adopting it for other areas of development.
 
