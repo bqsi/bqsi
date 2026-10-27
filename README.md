@@ -8,4 +8,4 @@ gameplay programmer @ Reimplemented
 
 gameplay engineer @ Exclusible
 
-game developer @ BearPuppy
+lead developer @ Arena Online
