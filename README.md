@@ -8,4 +8,6 @@ gameplay programmer @ Reimplemented
 
 gameplay engineer @ Exclusible
 
+commission developer @ Momo City
+
 lead developer @ Arena Online
